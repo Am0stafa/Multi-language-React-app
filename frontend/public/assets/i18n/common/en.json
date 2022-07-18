@@ -1,0 +1,7 @@
+
+{
+	"submit": "Submit",
+	"title": "this is the title in english",
+	"profile": "Profile",
+	"__comment":"if the label is this key i want the value in english to be ...value"
+}
